@@ -1,4 +1,4 @@
-package eu.navneet.myquizapp
+package eu.tutorials.quizapp
 
 import org.junit.Test
 
